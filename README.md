@@ -1,2 +1,3 @@
-# DTI_projeto
-Repositório contendo minha aplicação para a DTI digital (privado)
+# Projeto)_Fullstack
+
+Repositório contendo meu proketo fullstack
