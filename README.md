@@ -1,3 +1,3 @@
-# Projeto)_Fullstack
+# Projeto_Fullstack
 
 Repositório contendo meu proketo fullstack
